@@ -1,3 +1,3 @@
 # fullcycle-go-challenge
 FullCycle course - Docker challenges
-DockerHub image: docker pull amsouzafernandes/fullcycle
+DockerHub image: https://hub.docker.com/r/amsouzafernandes/fullcycle
